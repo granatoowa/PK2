@@ -1,0 +1,11 @@
+﻿  functions.c
+C:\Users\granatoowa\source\repos\Ksiazka\functions.c(23,41): warning C4028: formalny parametr 2 różni się od deklaracji
+C:\Users\granatoowa\source\repos\Ksiazka\functions.c(27,19): warning C4133: "funkcja": niezgodne typy - od "FILE *" do "FILE *"
+C:\Users\granatoowa\source\repos\Ksiazka\functions.c(37,26): warning C4133: "funkcja": niezgodne typy - od "FILE *" do "FILE *"
+C:\Users\granatoowa\source\repos\Ksiazka\functions.c(56,43): warning C4028: formalny parametr 2 różni się od deklaracji
+C:\Users\granatoowa\source\repos\Ksiazka\functions.c(63,55): warning C4028: formalny parametr 2 różni się od deklaracji
+C:\Users\granatoowa\source\repos\Ksiazka\functions.c(77,38): warning C4028: formalny parametr 2 różni się od deklaracji
+C:\Users\granatoowa\source\repos\Ksiazka\functions.c(121,1): warning C4047: "inicjowanie": "Recipe *" różni się w poziomach operatorów pośrednich od "Recipe **"
+C:\Users\granatoowa\source\repos\Ksiazka\functions.c(373,18): warning C4047: "funkcja": "Recipe **" różni się w poziomach operatorów pośrednich od "Struct *"
+C:\Users\granatoowa\source\repos\Ksiazka\functions.c(373,18): warning C4024: "changeMark": różne typy dla formalnego i rzeczywistego parametru 1
+  Ksiazka.vcxproj -> C:\Users\granatoowa\source\repos\Ksiazka\Debug\Ksiazka.exe
