@@ -1,4 +1,3 @@
 ﻿  func.c
-C:\Users\granatoowa\source\repos\PrzepisyKulinarne\func.c(260,37): warning C4133: "funkcja": niezgodne typy - od "FILE *" do "FILE *"
-C:\Users\granatoowa\source\repos\PrzepisyKulinarne\func.c(333,26): warning C4133: "funkcja": niezgodne typy - od "FILE *" do "FILE *"
+C:\Users\granatoowa\source\repos\PrzepisyKulinarne\func.c(169,26): warning C4133: "funkcja": niezgodne typy - od "FILE *" do "FILE *"
   PrzepisyKulinarne.vcxproj -> C:\Users\granatoowa\source\repos\PrzepisyKulinarne\Debug\PrzepisyKulinarne.exe
